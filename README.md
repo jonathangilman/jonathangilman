@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi there, my name is Jonathan Gilman and I am a first year Master of Environmental Management student at Duke University.
+
+![JPG_headshot_23](https://github.com/user-attachments/assets/51105309-4f6b-47ae-89a3-ed8cf244029f)
+
+
+Within my degree I am concentrating in Environmental Analytics & Modeling and Terrestrial & Freshwater Ecosystems. I’m passionate about using data to better understand freshwater systems — from stream chemistry and nutrient cycling to watershed-scale management.
+
+You can contact me through my LinkedIn: www.linkedin.com/in/jonathan-gilman-8142302b1 
 
 <!--
 **jonathangilman/jonathangilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
